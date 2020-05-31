@@ -1,0 +1,224 @@
+.banner {
+    position: absolute;
+    width: 100%;
+    height: 791px;
+    left: 0px;
+    top: 109px;
+    background: #FFFFFF;
+}
+
+.banner-text {
+    position: inline-block;
+    width: 535px;
+    height: 285px;
+    left: 175px;
+    top: 238px;
+}
+
+h3 {  
+    font-family: Montserrat Medium;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+
+    color: #393939;
+}
+
+.banner-text h3 {
+    position: absolute;
+    width: 234px;
+    height: 29px;
+    left: 175px;
+    top: 238px;
+}
+
+h2 {
+    font-family: Montserrat Black;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+}
+
+.banner-text h2 {
+    position: absolute;
+    width: 535px;
+    height: 216px;
+    left: 175px;
+    top: 307px;
+}
+
+.banner img {
+    position: absolute;
+    width: 420px;
+    height: 327px;
+    left: 845px;
+    top: 238px;
+}
+
+.banner {
+    position: absolute;
+    width: 1440px;
+    height: 791px;
+    left: 0px;
+    top: 109px;
+}
+
+.banner-text {
+    position: absolute;
+    width: 535px;
+    height: 285px;
+    left: 175px;
+    top: 238px;
+}
+
+.banner-image {
+    position: absolute;
+    width: 420px;
+    height: 327px;
+    left: 845px;
+    top: 238px;
+}
+
+.banner-text h3 {
+font-family: Montserrat Medium;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+letter-spacing: 3px;
+text-transform: uppercase;
+
+color: #393939;
+}
+
+.banner-text h2 {
+    font-family: Montserrat Black;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 36px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+
+    color: #393939;
+}
+
+.banner-text .pink {
+    color: #FB5E64;
+    display: inline;
+}
+
+.home-hero h5 {
+    position: absolute;
+    width: 83px;
+    height: 20px;
+    left: 678px;
+    top: 699px;
+
+    font-family: Montserrat Light;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 20px;
+    text-transform: uppercase;
+
+    color: #393939;
+}
+
+.projects {
+    position: absolute;
+    width: 1440px;
+    height: 3966px;
+    left: 0px;
+    top: 900px;
+}
+
+.musitude {
+    position: absolute;
+    width: 1440px;
+    height: 661px;
+    left: 0px;
+    top: 900px;
+    background: #FFFFFF;
+}
+
+.musitude .thumbnail {
+    position: absolute;
+    width: 424px;
+    height: 421px;
+    left: 286px;
+    top: 1014px;
+}
+
+.musitude h6 {
+    position: absolute;
+width: 206px;
+height: 21px;
+left: 841px;
+top: 1014px;
+
+font-family: Montserrat Light;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 129.9%;
+/* identical to box height, or 21px */
+
+letter-spacing: 0.03em;
+
+color: #393939;
+}
+
+.musitude h5 {
+    position: absolute;
+    width: 313px;
+    height: 102px;
+    left: 841px;
+    top: 1156px;
+
+    font-family: Montserrat ExtraBold;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 140%;
+    color: #393939;
+}
+
+
+
+
+
+
+   @media (min-width: 800px) {
+    .home-hero{
+        margin: 0 10.9375rem;
+        padding-top: 12rem;
+        max-width: 76%;
+    } 
+    .banner-image {
+        display: inline-block;
+        float: right;
+    }
+    .home-hero .container {
+        max-width: 45%;
+        float: left;
+        display: inline-block;
+    }
+}
+
+
+@media (min-width: 800px) {
+    .small-title {
+      font-size: 1.5rem;
+      letter-spacing: 2px;  
+    }
+
+    .title {
+        font-size: 2.25rem;
+        letter-spacing: 2%;
+    }
+}
