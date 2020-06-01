@@ -413,6 +413,10 @@ header a:active {
      letter-spacing: 0.03em;
  }
 
+   h6 {
+       font-family: Montserrat;
+       font-weight: 300;
+
  .project h5 {
     font-family: Montserrat;
     font-style: normal;
