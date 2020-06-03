@@ -295,6 +295,7 @@ header a:active {
         display: inline-block;
         float: right;
         padding-left: 4rem;
+        width: 45%;
     }
     .home-hero .container {
         max-width: 50%;
