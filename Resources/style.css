@@ -153,7 +153,7 @@ nav li {
 nav a {
     font-family: Montserrat Light;
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 0.875rem;
     color: #393939;
     text-decoration: none;
@@ -342,9 +342,9 @@ header a:active {
  /*typography*/
 
  .project h6 {
-     font-family: Montserrat Light;
+     font-family: Montserrat;
      font-size: 1rem;
-     font-weight: 300;
+     font-weight: 400;
      line-height: 129.9%;
      letter-spacing: 0.03em;
  }
@@ -459,7 +459,7 @@ header a:active {
 
 /*background image*/
 .about-me {
-    background-image: url(../Resources/about\ me/about\ me\ background.png);
+    background-image: url(../Resources/about\ me/about\ me\ background\ white.svg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -481,9 +481,9 @@ header a:active {
 }
 
 .about-me-text h6 {
-    font-family: Montserrat Light;
+    font-family: Montserrat;
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1rem;
     line-height: 29px;
     margin-bottom: 4rem;
@@ -499,9 +499,9 @@ header a:active {
     margin: 0 auto;
     width: 100%;
     text-align: center;
-    font-family: Montserrat Light;
+    font-family: Montserrat;
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1rem;
     line-height: 20px;
 }
@@ -861,9 +861,9 @@ header a:active {
 }
 
 .key-info h6 {
-    font-family: Montserrat Light;
+    font-family: Montserrat;
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1rem;
     line-height: 29px;
     text-align: center;
@@ -929,7 +929,7 @@ header a:active {
 .info h6 {
     font-family: Montserrat Light;
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1.5rem;
     line-height: 29px;
     letter-spacing: 1.35px;
@@ -1380,9 +1380,9 @@ header a:active {
 }
 
 .posters-text h6 {
-    font-family: Montserrat Light;
+    font-family: Montserrat;
     font-style: normal;
-    font-weight: 300;
+    font-weight: 400;
     font-size: 1rem;
     line-height: 29px;
 }
