@@ -106,6 +106,12 @@ img {
         font-size: 24px;
         padding-bottom: 0;
     }
+
+    p {
+        font-family: Montserrat;
+        font-weight: 500;
+        font-size: 1 rem;
+    }
 }
 
 
@@ -232,7 +238,7 @@ header a:active {
 
 /*background image*/
 .home-hero {
-    background-image: url(./Home\ page/background\ image.svg);
+    background-image: url(../Resources/Home\ page/background\ image.svg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -457,7 +463,7 @@ header a:active {
 
 /*background image*/
 .about-me {
-    background-image: url(./about\ me/About\ me\ background\ white.svg);
+    background-image: url(../Resources/about\ me/about\ me\ background\ white.svg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -785,7 +791,7 @@ header a:active {
 }
 
 .banner h1 {
-    font-family: Montserrat Black;
+    font-family: Montserrat;
     font-style: normal;
     font-weight: 900;
     font-size: 50px;
@@ -795,7 +801,7 @@ header a:active {
 }
 
 .banner h2 {
-    font-family: Montserrat Black;
+    font-family: Montserrat;
     font-style: normal;
     font-weight: 900;
     font-size: 20px;
@@ -811,7 +817,7 @@ header a:active {
 }
 
 .banner h1 {
-    font-family: Montserrat Black;
+    font-family: Montserrat;
     font-style: normal;
     font-weight: 900;
     font-size: 9.375rem;
@@ -822,7 +828,7 @@ header a:active {
 }
 
 .banner h2 {
-    font-family: Montserrat Black;
+    font-family: Montserrat;
     font-style: normal;
     font-weight: 900;
     font-size: 1.25rem;
@@ -925,7 +931,7 @@ header a:active {
 
 
 .info h6 {
-    font-family: Montserrat Light;
+    font-family: Montserrat;
     font-style: normal;
     font-weight: 400;
     font-size: 1.5rem;
@@ -939,7 +945,7 @@ header a:active {
 }
 
 .info p {
-    font-family: Montserrat Medium;
+    font-family: Montserrat;
     font-style: normal;
     font-weight: 500;
     font-size: 1rem;
