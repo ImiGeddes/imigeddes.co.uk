@@ -457,7 +457,7 @@ header a:active {
 
 /*background image*/
 .about-me {
-    background-image: url(../Resources/about\ me/about\ me\ background\ white.svg);
+    background-image: url(./about\ me/about\ me\ background\ white.svg);
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
