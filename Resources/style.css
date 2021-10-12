@@ -33,15 +33,15 @@ img {
 
 /* typography*/
 .small-title {
-    font-family: Montserrat medium;
+    font-family: Montserrat;
     font-size: 1rem;
     display: block;
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 .title {
-    font-family: Montserrat Black;
+    font-family: Montserrat;
     font-size: 1.5rem;
     display: block;
     font-weight: 900;
@@ -402,9 +402,9 @@ header a:active {
    footer connect:
 
    footer .bold {
-       font-family: Montserrat ExtraBold;
+       font-family: Montserrat;
        font-style: normal;
-       font-weight: bold;
+       font-weight: 800;
        font-size: 1rem;
        line-height: 129.9%;
    }
@@ -550,7 +550,7 @@ header a:active {
 
 .childhood {
     position :absolute;
-    font-family: Montserrat Light;
+    font-family: Montserrat;
     font-style: normal;
     font-weight: 300;
     font-size: 24px;
@@ -590,7 +590,7 @@ header a:active {
 
 .university {
     position :absolute;
-    font-family: Montserrat Light;
+    font-family: Montserrat;
     font-style: normal;
     font-weight: 300;
     font-size: 24px;
@@ -630,7 +630,7 @@ header a:active {
 
 .consultancy {
     position :absolute;
-    font-family: Montserrat Light;
+    font-family: Montserrat;
     font-style: normal;
     font-weight: 300;
     font-size: 24px;
@@ -670,7 +670,7 @@ header a:active {
 
 .abroad {
     position :absolute;
-    font-family: Montserrat Light;
+    font-family: Montserrat;
     font-style: normal;
     font-weight: 300;
     font-size: 24px;
@@ -710,7 +710,7 @@ header a:active {
 
 .diploma {
     position :absolute;
-    font-family: Montserrat Light;
+    font-family: Montserrat;
     font-style: normal;
     font-weight: 300;
     font-size: 24px;
@@ -750,7 +750,7 @@ header a:active {
 
 .now {
     position :absolute;
-    font-family: Montserrat Light;
+    font-family: Montserrat;
     font-style: normal;
     font-weight: 300;
     font-size: 24px;
@@ -1084,7 +1084,7 @@ header a:active {
 }
 
 .reflections .bold {
-    font-family: Montserrat ExtraBold;
+    font-family: Montserrat;
     font-style: normal;
     font-weight: bold;
     font-size: 1rem;
@@ -1182,7 +1182,7 @@ header a:active {
     font-size: 1.5rem;
     font-weight: bold;
     text-align: center;
-    font-family: Montserrat ExtraBold;
+    font-family: Montserrat;
     margin-top: 2rem;
 }
 
@@ -1272,9 +1272,9 @@ header a:active {
 #oceansedgewhy {
     color: #012C60;
     font-size: 1.5rem;
-    font-weight: bold;
+    font-weight: 800;
     text-align: center;
-    font-family: Montserrat ExtraBold;
+    font-family: Montserrat;
     margin-top: 2rem;
 }
 
@@ -1345,9 +1345,9 @@ header a:active {
 #sevenwhy {
     color: #012C60;
     font-size: 1.5rem;
-    font-weight: bold;
+    font-weight: 800;
     text-align: center;
-    font-family: Montserrat ExtraBold;
+    font-family: Montserrat;
     margin-top: 2rem;
 }
 
