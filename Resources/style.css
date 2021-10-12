@@ -8,7 +8,6 @@
 }
 
 
-
 body {
     font-family: montserrat, sans-serif;
     background-color: white;
@@ -22,7 +21,6 @@ html {
 }
 
 img {
-    max-width: 1440px;
     height: auto;
 }
 
@@ -33,15 +31,15 @@ img {
 
 /* typography*/
 .small-title {
-    font-family: Montserrat;
+    font-family: Montserrat medium;
     font-size: 1rem;
     display: block;
     text-transform: uppercase;
-    font-weight: 400;
+    font-weight: 300;
 }
 
 .title {
-    font-family: Montserrat;
+    font-family: Montserrat Black;
     font-size: 1.5rem;
     display: block;
     font-weight: 900;
@@ -56,6 +54,14 @@ img {
 
 .title span {
     display: block;
+}
+
+.home-hero h1 {
+    font-family: Montserrat;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 90px;
+    line-height: 120%;
 }
 
 .home-hero h5 {
@@ -86,11 +92,6 @@ img {
     }
 
     h1 {
-        font-family: Montserrat;
-        font-style: italic;
-        font-weight: 800;
-        font-size: 80px;
-        line-height: 120%;
         width: 70%;
     }
     
@@ -207,9 +208,9 @@ header a:active {
      padding-top: 8rem;
     margin: 0 %;
      display: block;
-     height: 100vh;
+     height: 100vw;
      padding-bottom: 3rem;
-     width: 90%;
+     width: 100vw;
  }
 
 
@@ -222,9 +223,17 @@ header a:active {
     display: block;
     margin: 0 auto;
 }
+
+ .view-work {
+     position: absolute;
+     bottom: 0px;
+     left: 50%;
+ }
+
 @media (min-width: 800px) {
     .home-hero {
         padding-left: 7rem;
+        width: 100vw;
     } 
 
     .home-hero .container {
@@ -243,6 +252,18 @@ header a:active {
     margin-top: 0;
 }
 
+}
+
+@media (max-width: 800px) {
+    .home-hero h1{
+    font-size: 40px;
+    }
+
+    .home-hero {
+        margin-left: 40px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
 }
 
 /*background image*/
@@ -267,6 +288,15 @@ header a:active {
  .project {
      display: block;
      margin-bottom: 5rem;
+ }
+
+ @media (max-width: 800px) {
+    .project img {
+        display: inline-flex;
+        margin-top: 5rem;
+        justify-content: center;
+        width: 100%;
+    }
  }
 
 
@@ -379,7 +409,7 @@ header a:active {
  /*footer*/
 
    footer {
-       width: 100vw;
+       width: 100%;
        display: block;
        overflow: hidden;
        padding: 24px 0;
@@ -1084,7 +1114,7 @@ header a:active {
 }
 
 .reflections .bold {
-    font-family: Montserrat;
+    font-family: Montserrat ExtraBold;
     font-style: normal;
     font-weight: bold;
     font-size: 1rem;
@@ -1182,7 +1212,7 @@ header a:active {
     font-size: 1.5rem;
     font-weight: bold;
     text-align: center;
-    font-family: Montserrat;
+    font-family: Montserrat ExtraBold;
     margin-top: 2rem;
 }
 
@@ -1272,9 +1302,9 @@ header a:active {
 #oceansedgewhy {
     color: #012C60;
     font-size: 1.5rem;
-    font-weight: 800;
+    font-weight: bold;
     text-align: center;
-    font-family: Montserrat;
+    font-family: Montserrat ExtraBold;
     margin-top: 2rem;
 }
 
