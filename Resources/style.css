@@ -60,7 +60,7 @@ img {
     font-family: Montserrat;
     font-style: italic;
     font-weight: 800;
-    font-size: 90px;
+    font-size: 6vw;
     line-height: 120%;
 }
 
@@ -227,7 +227,7 @@ header a:active {
  .view-work {
      position: absolute;
      bottom: 0px;
-     left: 50%;
+     left: 45%;
  }
 
 @media (min-width: 800px) {
@@ -272,9 +272,10 @@ header a:active {
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    height: auto;
+    height: 100vw;
     margin: 0;
 }
+
 
  /* projects */
 
