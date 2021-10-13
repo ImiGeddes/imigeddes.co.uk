@@ -256,7 +256,7 @@ header a:active {
 
 @media (max-width: 800px) {
     .home-hero h1{
-    font-size: 8vw;
+    font-size: 10vw;
     }
 
     .home-hero {
@@ -265,7 +265,7 @@ header a:active {
     }
 
     .view-work {
-        display: none;
+        left: 30%;
     }
 }
 
@@ -275,7 +275,7 @@ header a:active {
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    height: 100vw;
+    height: 100vh;
     margin: 0;
 }
 
@@ -1033,6 +1033,12 @@ header a:active {
     margin-top: 5rem;
 }
 
+.image-container img {
+    width: 100vw;
+}
+
+
+
 #line {
     width: 50%;
     margin-top: 4rem;
@@ -1063,6 +1069,7 @@ header a:active {
     margin-top: 2rem;
     margin-bottom: 2rem;
     display: block;
+    width: 80vw;
 }
 
 .research #nomargin {
@@ -1084,10 +1091,15 @@ header a:active {
     margin-top: 2rem;
 }
 
+
 @media (min-width: 800px) {
     .planning img {
         width: 44.861111%;
         margin: 0 auto;
+    }
+
+    .research img {
+        width: 50vw;
     }
 
     #planning2 {
