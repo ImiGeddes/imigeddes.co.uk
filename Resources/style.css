@@ -256,13 +256,16 @@ header a:active {
 
 @media (max-width: 800px) {
     .home-hero h1{
-    font-size: 40px;
+    font-size: 8vw;
     }
 
     .home-hero {
-        margin-left: 40px;
         padding-left: 40px;
         padding-right: 40px;
+    }
+
+    .view-work {
+        display: none;
     }
 }
 
@@ -312,27 +315,28 @@ header a:active {
         display: flex;
         height: auto;
         margin-bottom: 0;
-        justify-content: space-between;
+        justify-content: center;
     }
 
     .project img {
         display: inline-flex;
         margin-top: 10rem;
         padding-right: 5%;
-        width: 35rem;
+        width: 40vw;
     }
 
     .project-text {
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        width: 25rem;
         margin-top: 10rem;
+        margin-left: 2vw;
         height: inherit;
     }
 
     .project h6 {
         margin-top: 0;
+        margin-bottom: 0;
     }
 
     #right {
@@ -397,13 +401,13 @@ header a:active {
     font-family: Montserrat;
     font-style: normal;
     font-weight: 800;
-    font-size: 2rem;
+    font-size: 7vw;
     line-height: 140%;
  }
 
  @media (min-width: 800px) {
     .project h5 {
-        font-size: 2rem;
+        font-size: 2.5vw;
     }
  }
 
