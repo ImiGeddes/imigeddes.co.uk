@@ -267,7 +267,7 @@ header a:active {
 }
 
 /*background image*/
-.home-hero {
+.home-page {
     background-image: url(../Resources/Home\ page/background\ image.svg);
     background-size: cover;
     background-attachment: fixed;
