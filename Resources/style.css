@@ -386,6 +386,41 @@ header a:active {
       color: #E4494E;
   }
   
+/*posters*/
+
+.posters {
+        display: flex;
+        width: 80vw;
+        margin: 0 auto;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+.poster {
+        width: 200;
+        height: auto;
+        margin: 2rem;
+    }
+
+.posters-top {
+    display: block;
+    color :#393939;
+    width: 100%;
+    padding-top: 8rem;
+}
+
+.posters-text {
+    width: 75vw;
+    margin: 0 auto;
+}
+
+.posters-text h6 {
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 29px;
+}
 
  /*typography*/
 
@@ -1414,38 +1449,6 @@ header a:active {
 }
 }
 
-.posters {
-    display: flex;
-    width: 75.6944444%;
-    margin: 0 auto;
-    flex-wrap: wrap;
-    justify-content: space-between;
-}
-
-.poster {
-    width: 40%;
-    margin: 2rem;
-}
-
-.posters-top {
-    display: block;
-    color :#393939;
-    width: 100%;
-    padding-top: 8rem;
-}
-
-.posters-text {
-    width: 60.277778%;
-    margin: 0 auto;
-}
-
-.posters-text h6 {
-    font-family: Montserrat;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 1rem;
-    line-height: 29px;
-}
 
 #ripplepics {
     width: 50rem;
