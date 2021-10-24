@@ -1050,11 +1050,24 @@ header a:active {
         margin-top: 1rem;
     }
 
+    .info h4 {
+        width: 44.861111%;
+        margin: auto;
+        margin-top: 2rem;
+    }
+
     .research h6 {
         height: max-content;
     }
 
     .research img {
+        width: 44.861111%;
+        margin: 0 auto;
+        margin-top: 4rem;
+        margin-bottom: 4rem;
+    }
+
+    .task img {
         width: 44.861111%;
         margin: 0 auto;
         margin-top: 4rem;
@@ -1105,6 +1118,17 @@ header a:active {
     margin-bottom: 2rem;
     display: block;
     width: 80vw;
+}
+
+.task img {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    display: block;
+    width: 80vw;
+}
+
+.design img {
+    padding-bottom: 2rem;
 }
 
 .research #nomargin {
