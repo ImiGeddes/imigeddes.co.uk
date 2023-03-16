@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
-
+@import url('https://fonts.cdnfonts.com/css/helvetica-neue-9');
+                
 * {
     box-sizing: border-box;
     list-style: none;
@@ -9,7 +9,7 @@
 
 
 body {
-    font-family: montserrat, sans-serif;
+    font-family: 'Helvetica Neue', sans-serif;
     background-color: white;
     margin: 0;
     text-align: left;
@@ -31,7 +31,7 @@ img {
 
 /* typography*/
 .small-title {
-    font-family: Montserrat medium;
+    font-family: Helvetica Neue;
     font-size: 1rem;
     display: block;
     text-transform: uppercase;
@@ -39,7 +39,7 @@ img {
 }
 
 .title {
-    font-family: Montserrat Black;
+    font-family: Helvetica Neue;
     font-size: 1.5rem;
     display: block;
     font-weight: 900;
@@ -57,7 +57,7 @@ img {
 }
 
 .home-hero h1 {
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: italic;
     font-weight: 800;
     font-size: 6vw;
@@ -65,7 +65,7 @@ img {
 }
 
 .home-hero h5 {
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 400;
     font-size: 0.875rem;
@@ -101,20 +101,20 @@ img {
 
 
     h3 {
-        font-family: Montserrat;
+        font-family: Helvetica Neue;
         font-weight: 800;
         font-size: 40px;
     }
 
     h4 {
-        font-family: Montserrat;
+        font-family: Helvetica Neue;
         font-weight: 600;
         font-size: 24px;
         padding-bottom: 0;
     }
 
     p {
-        font-family: Montserrat;
+        font-family: Helvetica Neue;
         font-weight: 500;
         font-size: 1 rem;
     }
@@ -161,7 +161,7 @@ nav li {
 }
 
 nav a {
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 400;
     font-size: 0.875rem;
@@ -360,7 +360,7 @@ header a:active {
 .button-readmore {
     font-size: 1rem;
     text-decoration: none;
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 600;
     line-height: 129.9%;
@@ -382,7 +382,7 @@ header a:active {
   
   .button-readmore:hover,
   .button-readmore:focus {
-      font-family: Montserrat;
+      font-family: Helvetica Neue;
       color: #E4494E;
   }
   
@@ -415,7 +415,7 @@ header a:active {
 }
 
 .posters-text h6 {
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 400;
     font-size: 1rem;
@@ -425,7 +425,7 @@ header a:active {
  /*typography*/
 
  .project h6 {
-     font-family: Montserrat;
+     font-family: Helvetica Neue;
      font-size: 1rem;
      font-weight: 400;
      line-height: 129.9%;
@@ -433,7 +433,7 @@ header a:active {
  }
 
  .project h5 {
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 800;
     font-size: 7vw;
@@ -453,7 +453,7 @@ header a:active {
        display: block;
        overflow: hidden;
        padding: 24px 0;
-       font-family: Montserrat;
+       font-family: Helvetica Neue;
        font-style: normal;
        font-weight: 500;
        font-size: 1rem;
@@ -472,7 +472,7 @@ header a:active {
    footer connect:
 
    footer .bold {
-       font-family: Montserrat;
+       font-family: Helvetica Neue;
        font-style: normal;
        font-weight: 800;
        font-size: 1rem;
@@ -564,7 +564,7 @@ header a:active {
 }
 
 .about-me-text h6 {
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 400;
     font-size: 1rem;
@@ -620,7 +620,7 @@ header a:active {
 
 .childhood {
     position :absolute;
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 300;
     font-size: 24px;
@@ -660,7 +660,7 @@ header a:active {
 
 .university {
     position :absolute;
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 300;
     font-size: 24px;
@@ -700,7 +700,7 @@ header a:active {
 
 .consultancy {
     position :absolute;
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 300;
     font-size: 24px;
@@ -740,7 +740,7 @@ header a:active {
 
 .abroad {
     position :absolute;
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 300;
     font-size: 24px;
@@ -780,7 +780,7 @@ header a:active {
 
 .diploma {
     position :absolute;
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 300;
     font-size: 24px;
@@ -820,7 +820,7 @@ header a:active {
 
 .now {
     position :absolute;
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 300;
     font-size: 24px;
@@ -870,7 +870,7 @@ header a:active {
 }
 
 .banner h1 {
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 900;
     font-size: 50px;
@@ -880,7 +880,7 @@ header a:active {
 }
 
 .banner h2 {
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 900;
     font-size: 20px;
@@ -896,7 +896,7 @@ header a:active {
 }
 
 .banner h1 {
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 900;
     font-size: 9.375rem;
@@ -907,7 +907,7 @@ header a:active {
 }
 
 .banner h2 {
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 900;
     font-size: 1.25rem;
@@ -944,7 +944,7 @@ header a:active {
 }
 
 .key-info h6 {
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 400;
     font-size: 1rem;
@@ -961,7 +961,7 @@ header a:active {
 }
 
 .key-info p {
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 500;
     font-size: 0.875rem;
@@ -1010,7 +1010,7 @@ header a:active {
 
 
 .info h6 {
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 400;
     font-size: 1.5rem;
@@ -1024,7 +1024,7 @@ header a:active {
 }
 
 .info p {
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: 500;
     font-size: 1rem;
@@ -1190,7 +1190,7 @@ header a:active {
 }
 
 .reflections .bold {
-    font-family: Montserrat ExtraBold;
+    font-family: Helvetica Neue;
     font-style: normal;
     font-weight: bold;
     font-size: 1rem;
@@ -1288,7 +1288,7 @@ header a:active {
     font-size: 1.5rem;
     font-weight: bold;
     text-align: center;
-    font-family: Montserrat ExtraBold;
+    font-family: Helvetica Neue;
     margin-top: 2rem;
 }
 
@@ -1380,7 +1380,7 @@ header a:active {
     font-size: 1.5rem;
     font-weight: bold;
     text-align: center;
-    font-family: Montserrat ExtraBold;
+    font-family: Helvetica Neue;
     margin-top: 2rem;
 }
 
@@ -1453,7 +1453,7 @@ header a:active {
     font-size: 1.5rem;
     font-weight: 800;
     text-align: center;
-    font-family: Montserrat;
+    font-family: Helvetica Neue;
     margin-top: 2rem;
 }
 
