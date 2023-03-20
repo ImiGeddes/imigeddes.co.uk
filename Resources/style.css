@@ -58,7 +58,7 @@ img {
 .home-hero h1 {
     font-family: Helvetica Neue;
     font-weight: 800;
-    font-size: 3vw;
+    font-size: 3.6vw;
     line-height: 120%;
 }
 
@@ -90,7 +90,7 @@ img {
     }
 
     h1 {
-        width: 65%;
+        width: 75%;
     }
     
      .banner-text h1 {
