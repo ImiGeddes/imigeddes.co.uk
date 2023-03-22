@@ -1040,6 +1040,7 @@ header a:active {
         width: 44.861111%;
         margin: auto;
         margin-bottom: 3rem;
+        margin-top: 5rem;
     }
     
     .info p {
@@ -1479,4 +1480,17 @@ header a:active {
 
 .connect:hover {
     colour: #E4494E;
+}
+
+
+#ontobanner {
+    background-color: #37F0CD;
+}
+
+#ontobanner-text {
+    color: black;
+}
+
+#onto-text h6 {
+    margin-top: 4rem;
 }
