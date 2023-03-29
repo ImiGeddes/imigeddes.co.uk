@@ -546,6 +546,7 @@ header a:active {
     background-repeat: no-repeat;
     height: 100%;
     margin: 0;
+    padding-bottom: 5rem;
 }
 
 .about-me-text {
@@ -574,6 +575,10 @@ header a:active {
     margin-bottom: 2rem;
     line-height: 150%;
     font-size: 1.5rem;
+}
+
+.aboutfooter {
+    margin-top: 0;
 }
 
 .history h6 {
